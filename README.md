@@ -5,3 +5,5 @@ user know what question they're on. There is also a score at the bottom of the r
 how many questions they've gotten correct. Also, after each question an alert pops up saying "correct" or "wrong" depending on 
 what the user picked, as well as an alert after all questions have been answered that asks the user if they want to restart. I 
 followed video tutorials from the London app brewery through Udemy to create this.
+
+<a href="https://imgflip.com/gif/2lfpqu"><img src="https://i.imgflip.com/2lfpqu.gif" title="made at imgflip.com"/></a>
